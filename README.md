@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning beginner machine learning algorithms 
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me: saikotpaul123@gmail.com 
+- 📫 How to reach me: https://www.linkedin.com/in/saikot-paul-74b626171/
 
 <!---
 saikot-paul/saikot-paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
