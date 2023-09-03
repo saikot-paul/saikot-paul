@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me: https://www.linkedin.com/in/saikot-paul-74b626171/
 
-[Saikot_Paul_Resume.pdf](https://github.com/saikot-paul/saikot-paul/files/12505063/Saikot_Paul_Resume.pdf)
+[embed][Saikot_Paul_Resume.pdf](https://github.com/saikot-paul/saikot-paul/files/12505063/Saikot_Paul_Resume.pdf)[/embed]
 
 
 <!---
