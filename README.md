@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saikot-paul
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning beginner machine learning algorithms 
-- 💞️ I’m looking to collaborate on anything 
+- 👀 I’m interested in building machine learning as a service apps 
+- 🌱 I’m currently either coding, eating, or doing some sort of activity
 - 📫 How to reach me: https://www.linkedin.com/in/saikot-paul-74b626171/
 
 <!---
